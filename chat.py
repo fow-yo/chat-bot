@@ -2,7 +2,6 @@ from logging import StringTemplateStyle
 import telebot
 import random
 
-bot = telebot.TeleBot('1883220504:AAH--rblH7myIQgNwLLNiZoylTLE7zLJaDA')
 
 data = {
     "number": [],
